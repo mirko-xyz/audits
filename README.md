@@ -5,7 +5,7 @@ Audits performed as a specialist contractor for established security firms.
 | Client | Project Context | Lead Firm | Audit Scope | Date | Findings | Report |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | *Undisclosed* | 🔒&nbsp;*Confidential* | Burra Security | LayerZero Cross-Chain Integration | Nov&nbsp;2025 | 🔒&nbsp;*Confidential* | 🔒&nbsp;NDA |
-| *Undisclosed* | 🔒&nbsp;*Confidential* | Burra Security | Chainlink CCIP Cross-Chain Integration | Oct&nbsp;2025 | 🔒&nbsp;*Confidential* | 🔒&nbsp;NDA |
+| Centrifuge | $1.3B+ TVL, <br/>Real-Word Asset Protocol | Burra Security | Chainlink CCIP Cross-Chain Integration | Oct&nbsp;2025 | 1M / 1L / 3I | [📄&nbsp;Link](./reports/firm/2025-10_BurraSec_Centrifuge_CCIP.pdf) |
 | LI.FI | $60B+ Volume, <br/>Bridge & DEX Aggregator | Burra Security| Eco Cross-Chain Integration | Oct&nbsp;2025 | 2M / 6I | [📄&nbsp;Link](./reports/firm/2025-10_BurraSec_LIFI_EcoFacet.pdf) |
 
 <br/>
